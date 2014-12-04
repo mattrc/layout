@@ -1,0 +1,1449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"compile",
+				"compileTo"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"ngswit",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"Current",
+				"CurrentUser"
+			],
+			[
+				"suggested",
+				"suggestedfriends"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"disa",
+				"ng-disabled	AngularJS"
+			],
+			[
+				"data",
+				"dataMedia"
+			],
+			[
+				"load",
+				"loadFavorites"
+			],
+			[
+				"updated",
+				"updatedCurrentUser"
+			],
+			[
+				"selected",
+				"selectedPostLangs"
+			],
+			[
+				"pa",
+				"parentWidth"
+			],
+			[
+				"account",
+				"accounts"
+			],
+			[
+				"get",
+				"getAccounts"
+			],
+			[
+				"update",
+				"updateObject"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"auto",
+				"autoComplete"
+			],
+			[
+				"post",
+				"postTopic"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"crea",
+				"createPostTextareaScope"
+			],
+			[
+				"create",
+				"createPostTextarea"
+			],
+			[
+				"modal",
+				"modalInstance"
+			],
+			[
+				"$modal",
+				"$modalInstance"
+			],
+			[
+				"user",
+				"userPostLangs"
+			],
+			[
+				"nrge",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ngop",
+				"ng-options	AngularJS"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"main",
+				"mainLeftSidebar"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"author",
+				"authorType"
+			],
+			[
+				"sub",
+				"subtype"
+			],
+			[
+				"object",
+				"objectType"
+			],
+			[
+				"getAuthor",
+				"getAuthorType"
+			],
+			[
+				"objec",
+				"objectType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "base.html",
+			"settings":
+			{
+				"buffer_size": 1932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/base.css",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sftpbro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftpbr",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"borwse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lowerca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"dashca	",
+				"Convert Case: dash-case"
+			],
+			[
+				"came",
+				"Convert Case: camelCase"
+			],
+			[
+				"dashca",
+				"Convert Case: dash-case"
+			],
+			[
+				"dashcase",
+				"Convert Case: dash-case"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"delet",
+				"ANF: Delete Current File"
+			],
+			[
+				"dashcs",
+				"Convert Case: dash-case"
+			],
+			[
+				"syntscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"json",
+				"StringEncode: JSON Escape"
+			],
+			[
+				"dete",
+				"ANF: Delete File"
+			],
+			[
+				"dash",
+				"Convert Case: dash-case"
+			],
+			[
+				"rteinde",
+				"Snippet: Returns the index of the first element that passes the callback check."
+			],
+			[
+				"minif",
+				"Minify::Minify File"
+			],
+			[
+				"jsonja",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"	dash",
+				"Convert Case: dash-case"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"snippe18",
+				"Snippet: i18next"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"jsoin",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			]
+		],
+		"width": 618.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/www/layout",
+		"/D/www/layout/css"
+	],
+	"file_history":
+	[
+		"/D/www/layout/css/normalize.css",
+		"/D/www/layout/index.html",
+		"/D/www/client/styles/style.css",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417634583/admin/srv/rexster/rexhome/public/panel/css/jasny-bootstrap.css",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417620999/admin/srv/rexster/rexhome/public/panel/css/app.css",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619400/admin/srv/rexster/rexhome/public/panel/index.html",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619486/admin/srv/rexster/rexhome/public/panel/js/app.js",
+		"/C/Users/Matias/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/admin",
+		"/D/www/client/scss/_bootstrap-3-changes.scss",
+		"/D/www/client/bower.json",
+		"/D/www/client/.bowerrc",
+		"/D/www/client/scripts/vendor/jquery.Jcrop.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417635726/admin/srv/rexster/rexhome/public/panel/js/bootstrap.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417635811/admin/srv/rexster/rexhome/public/panel/js/jquery.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417635665/admin/srv/rexster/rexhome/public/panel/css/bootstrap.css",
+		"/D/www/client/scripts/app.config.js",
+		"/D/www/client/scss/_helpers.scss",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417620952/admin/srv/rexster/rexhome/public/panel/css/simple-sidebar.css",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619894/admin/srv/rexster/rexhome/public/panel/js/lodash.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619780/admin/srv/rexster/rexhome/public/panel/js/vendor/lodash.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619556/admin/srv/rexster/rexhome/public/panel/js/angular.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619860/admin/srv/rexster/rexhome/public/panel/js/vendor/angular.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619651/admin/srv/rexster/rexhome/public/panel/js/jquery.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619451/admin/srv/rexster/rexhome/public/panel/index.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417619823/admin/srv/rexster/rexhome/public/panel/js/vendor/jquery.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417555189/admin/srv/rexster/rexhome/public/panel/index.js",
+		"/D/www/client/scripts/directives/post/postText/postText.html",
+		"/D/www/client/scripts/directives/post/headerPost/headerPost.html",
+		"/D/www/client/scripts/directives/post/postText/postText.js",
+		"/D/www/client/scripts/controllers/post.js",
+		"/C/users/matias/appdata/local/temp/sublime-sftp-browse-1417555258/admin/srv/rexster/rexhome/public/panel/index.html",
+		"/D/www/client/index.html",
+		"/D/www/client/scripts/directives/imgInput/imgInput.js",
+		"/D/www/client/views/partials/modals/profile.picture.html",
+		"/D/www/client/scss/modals/_modalProfilePicture.scss",
+		"/D/www/client/views/partials/profiles/publisher/entity.publisher.feed.html",
+		"/D/www/client/views/partials/modals/profile.cover.html",
+		"/D/www/client/config/production.json",
+		"/D/www/client/scripts/directives/post/postRss/postRss.html",
+		"/D/www/client/scripts/directives/imgInput/imgInput.html",
+		"/D/www/client/scripts/directives/imgPostInput.js",
+		"/D/www/client/scripts/directives/imgMobileWidget/imgMobileWidget.html",
+		"/D/www/client/scripts/services/currentUser.js",
+		"/D/www/client/scripts/directives/settings/languageForm/languageForm.js",
+		"/D/www/client/scripts/directives/post/postImage/postImage.html",
+		"/D/www/client/views/partials/user/user.settings.configuration.html",
+		"/D/www/client/locales/static/rss.json",
+		"/D/www/client/scripts/directives/liveurl/liveurl.js",
+		"/D/www/client/scripts/directives/liveurl/_liveurl.scss",
+		"/D/www/client/scripts/directives/liveurl/liveurl.html",
+		"/D/www/client/scripts/vendor/jquery.liveurl_1.2.2.js",
+		"/D/www/client/scripts/services/languages.js",
+		"/D/www/client/scripts/services/rss.js",
+		"/D/www/client/scripts/vendor/ng-i18next.js",
+		"/D/www/client/scripts/directives/navBar/navBarLinks.html",
+		"/D/www/client/views/partials/user/user.settings.account.html",
+		"/D/www/client/scripts/directives/settings/languageForm/languageForm.html",
+		"/C/Users/Matias/AppData/Local/Temp/Rar$DRa0.629/ng-i18next-0.3.6/dist/ng-i18next.js",
+		"/D/www/client/scripts/vendor/i18next.js",
+		"/D/www/client/scripts/services/i18n.js",
+		"/D/www/client/scripts/directives/usersList/usersList.html",
+		"/D/www/client/scripts/services/userConfig.js",
+		"/D/www/client/views/partials/expandedPost/generic/entity.post.content.html",
+		"/D/www/client/scripts/directives/metaPost.js",
+		"/D/www/client/scss/_vars.scss",
+		"/D/www/client/scss/_search-item.scss",
+		"/D/www/client/views/includes/searchItem.html",
+		"/D/www/client/scripts/directives/followedEntities/_followedEntities.scss",
+		"/D/www/client/scripts/directives/followedEntities/followedEntities.html",
+		"/D/www/client/scripts/directives/followBtn/followBtn.html",
+		"/D/www/client/scripts/directives/feed/feed.js",
+		"/D/www/client/scripts/vendor/angular-resource.js",
+		"/D/www/client/scripts/directives/validate.js",
+		"/D/www/client/scripts/directives/voteVideoCard/voteVideoCard.html",
+		"/D/www/client/scripts/directives/suggestedFriends/suggestedFriends.js",
+		"/D/www/client/scripts/controllers/search.js",
+		"/D/www/client/scripts/directives/followedEntities/followedEntities.js",
+		"/D/www/client/scripts/controllers/followers.js",
+		"/D/www/client/scripts/directives/post/postError/postError.html",
+		"/D/www/client/scripts/directives/navBar/navBarLinks.js",
+		"/D/www/client/scripts/directives/navBar/navBarBrand.js",
+		"/D/www/client/scripts/directives/navBar/navBarProfile.html",
+		"/D/www/client/scripts/directives/followBtn/followBtn.js",
+		"/D/www/client/scripts/directives/followBtn/_followBtn.scss",
+		"/D/www/client/scripts/directives/post/postError/postError.js",
+		"/D/www/client/scripts/directives/feed/feed.html",
+		"/D/www/client/scripts/directives/collections/posts/posts.js",
+		"/D/www/client/scripts/directives/collections/posts/posts.html",
+		"/D/www/client/scripts/controllers/landing.js",
+		"/D/www/client/locales/cities/cities_om.csv",
+		"/D/www/client/views/layouts/cause.html",
+		"/D/www/client/scripts/directives/collections/comments/_comment.scss",
+		"/D/www/client/scripts/directives/collections/opinions/opinions.html",
+		"/D/www/client/scripts/directives/collections/comments/comments.html",
+		"/D/www/client/scripts/directives/postNotif/postNotifCheerPublication/postNotifCheerPublication.html",
+		"/D/www/client/scripts/directives/postNotif/postNotifCheerOpinion/postNotifCheerOpinion.html",
+		"/D/www/client/scripts/directives/post/postMotiveComment/postMotiveComment.html",
+		"/D/www/client/scripts/directives/idolMotiveVote/idolMotiveVote.html",
+		"/D/www/client/scripts/directives/settings/profileData/profileDataPublisher.html",
+		"/D/www/client/scripts/directives/settings/profileData/_profileData.scss",
+		"/D/www/client/scripts/directives/reportPost/_reportPost.scss",
+		"/D/www/client/scripts/directives/createPost/createPost.js",
+		"/D/www/client/views/partials/user/user.motives.html",
+		"/D/www/client/scripts/directives/createPost/createPost.html",
+		"/D/www/client/scripts/directives/postLangsModal/postLangsModal.html",
+		"/D/www/client/scss/_layout.scss",
+		"/D/www/client/views/layouts/base.html",
+		"/D/www/client/scss/views/_wall.scss",
+		"/D/www/client/scss/_base.scss",
+		"/D/www/client/scripts/services/api/apiUtils.js",
+		"/D/www/client/scripts/directives/entityPopover/entityPopover.js",
+		"/D/www/client/scripts/directives/entityFavs/entityFavs.js",
+		"/D/www/client/scripts/directives/post/_post.scss",
+		"/D/www/client/scripts/directives/entityPopover/_entityPopover.scss",
+		"/D/www/client/scripts/directives/dmhFilterMotives/_dmhFilterMotives.scss",
+		"/D/www/client/scripts/directives/anonCard/anonCard.html",
+		"/D/www/client/scripts/directives/collections/friends/friends.html",
+		"/D/www/client/scripts/directives/dmhFilterMotives/dmhFilterMotives.html",
+		"/D/www/client/scripts/directives/dmhFilterVoteVideos/dmhFilterVoteVideos.html",
+		"/D/www/client/scripts/directives/reportPost/reportPost.html",
+		"/D/www/client/scripts/directives/dmhFilterVoteVideos/_dmhFilterVoteVideos.scss",
+		"/D/www/client/scripts/directives/dmhBannerVoteVideos/dmhBannerVoteVideos.html",
+		"/D/www/client/scripts/directives/collections/friends/_friends.scss",
+		"/D/www/client/scripts/services/friends.js",
+		"/D/www/client/scripts/directives/navBar/_navBar.scss",
+		"/D/www/client/scripts/directives/settings/profileData/profileDataPerson.html",
+		"/D/www/client/scss/_profile-menu.scss",
+		"/C/Users/Matias/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"D:\\www\\client",
+			"D:\\www\\client,-D:\\www\\client\\scripts\\bower_components\\",
+			"D:\\www\\client,-D:\\www\\client\\scripts\\bower_components\\es5-shim\\",
+			"D:\\www\\client,-D:\\www\\client\\bower_components\\es5-shim",
+			"D:\\www\\client",
+			"D:\\www\\client\\scss",
+			"D:\\www\\client",
+			"D:\\www\\client\\locales\\translations",
+			"D:\\www\\client",
+			"D:\\www\\client\\locales\\translations",
+			"D:\\www\\client",
+			"D:\\www\\client\\locales\\translations",
+			"D:\\www\\client",
+			"D:\\www\\client\\locales\\translations",
+			"D:\\www\\client",
+			"D:\\www\\client\\scripts\\directives",
+			"D:\\www\\client",
+			"<open files>",
+			"D:\\www\\client",
+			"D:\\www\\client\\locales\\translations",
+			"D:\\www\\client",
+			"D:\\www\\client\\locales\\translations",
+			"D:\\www\\client",
+			"D:\\www\\client\\dist",
+			"D:\\www\\client",
+			"D:\\www\\client\\dist",
+			"D:\\www\\client\\",
+			"D:\\www\\client\\locales\\languages",
+			"D:\\www\\client\\locales",
+			"D:\\www\\client\\locales\\translations",
+			"D:\\www\\client",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"solid",
+			"blue",
+			"main",
+			"display: table-cell;",
+			"lorem",
+			"span",
+			"q",
+			"500",
+			"250px",
+			"animate({ scrollTop: 999999 }, 0)",
+			"ev.target",
+			"height: 100%;",
+			"width: 100%",
+			"10px",
+			"05",
+			"10px",
+			"left",
+			"css/",
+			"js/",
+			"js",
+			"js/",
+			"black",
+			".conte",
+			".form-query",
+			".custom-scrollbars {\n  /* Track */\n  /* Handle */\n}\n.custom-scrollbars::-webkit-scrollbar {\n  width: 8px;\n}\n.custom-scrollbars::-webkit-scrollbar-track {\n  background-color: rgba(113, 112, 107, 0);\n  -webkit-border-radius: 5px;\n}\n.custom-scrollbars::-webkit-scrollbar-thumb {\n  background-color: transparent;\n  -webkit-border-radius: 6px;\n}\n.custom-scrollbars::-webkit-scrollbar-thumb:window-inactive {\n  background: rgba(0, 0, 0, 0.2);\n}\n.custom-scrollbars:hover {\n  /* Track */\n  /* Handle */\n}\n.custom-scrollbars:hover::-webkit-scrollbar-track {\n  background-color: rgba(113, 112, 107, 0.1);\n}\n.custom-scrollbars:hover::-webkit-scrollbar-thumb {\n  background-color: rgba(0, 0, 0, 0.2);\n}",
+			".navbar-toggle",
+			"content",
+			"true",
+			"$http",
+			"cyan",
+			"app.",
+			"queries",
+			"sidebar-nav",
+			".custom-scrollbars-dark",
+			"&",
+			"app",
+			"sendRequest",
+			"$firebase",
+			"scrollbars",
+			"costom-scroll",
+			"div",
+			"#page-content-wrapper",
+			"#sidebar-wrapper",
+			"#wrapper",
+			"id",
+			"display: table-cell;",
+			"text-to-send",
+			"div",
+			"min",
+			"Image",
+			"locale",
+			"updateLanguage",
+			"i18nextProvider",
+			"post.subtype",
+			"person",
+			"border-color: $color-person;",
+			".search-item--person {}",
+			"img",
+			"No se encontraron publicaciones RSS",
+			"encont",
+			"searchRes",
+			"encontr",
+			"encontraron",
+			"errorPost",
+			"postRss",
+			"PostI",
+			"\\",
+			"Feed could not be loaded",
+			"emptyRss",
+			"emptyRssPost",
+			", ",
+			"RssService",
+			"er/entity.publisher.feed.html",
+			"rss",
+			"angular.js",
+			"top",
+			"lateral-derecha",
+			".wall ",
+			"pan",
+			"xp",
+			"Ver hítos",
+			"Ver hitos",
+			" dropdown-toggle ",
+			"<button dropdown-toggle",
+			"dropdown-toggle",
+			"<ul dropdown-toggle",
+			"<li dropdown",
+			" dropdown ",
+			"<div dropdown",
+			"dropdown",
+			"role=\"menu\"",
+			"class=\"btn-group\"",
+			"radius",
+			"dropdown",
+			"hs-friends",
+			"right",
+			"drop",
+			"dropdown",
+			"autofill-event",
+			"uri.js",
+			"jquery",
+			"D:\\www\\client\\scripts\\bower_components\\es5-shim",
+			"es5-shim",
+			"json3",
+			"changeLanguage",
+			"300",
+			"500",
+			"400",
+			"//",
+			"thumb-90",
+			"thumb",
+			"boots",
+			"bootstra",
+			"angular",
+			"bootstrap",
+			"bootstra",
+			"a",
+			"dropdown",
+			"tracekit",
+			"changeLanguage",
+			"angular",
+			"bootstra",
+			"lang",
+			"bootstrap",
+			"jquery",
+			"1.3.4",
+			"~",
+			"sanitize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<button data-dropdown-toggle",
+			"<ul data-dropdown-toggle",
+			"<li data-dropdown",
+			"<div data-dropdown",
+			"<hs-header-post class=\"post__header\"></hs-header-post>",
+			"repeat-item--enter",
+			"<hs-suggested-friends data-tpl=\"sidebar\"></hs-suggested-friends>",
+			"data-modifier",
+			"entity-mobile-cover__overlay",
+			"data-ng-attr-placeholder=",
+			"$color-gray-lightest",
+			"icon--search",
+			"<div data-hs-entity-popover=\"post.author\" class=\"post__img-user\">\n    <a data-ng-href=\"{{ post.author.getLink() }}\" class=\"post__author__avatar thumb-40 img-circle\">\n       <img data-ng-src=\"{{ post.author.getIcon() }}\">\n    </a>\n</div>",
+			"profile-data__location-select",
+			"updatePostLangs",
+			"getPostLangs",
+			"settings-form__row__field",
+			"SettingsConfigurationCtrl",
+			"SettingsAccountCtrl",
+			"MainLeftSidebarCtrl",
+			"LeftSidebarCtrl",
+			"data-allowed-tags=\"['i','n','t','p','e']\"",
+			"data-format=\"mini\"",
+			"/views"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								944,
+								1844
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 120.0
+	},
+	"project": "Layout.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".css",
+				"styles\\style.css"
+			],
+			[
+				"headerpost",
+				"scripts\\directives\\post\\headerPost\\headerPost.html"
+			],
+			[
+				"posttext",
+				"scripts\\directives\\post\\postText\\postText.html"
+			],
+			[
+				"profilepic",
+				"views\\partials\\modals\\profile.picture.html"
+			],
+			[
+				"imginput",
+				"scripts\\directives\\imgInput\\imgInput.js"
+			],
+			[
+				"liveurl",
+				"scripts\\directives\\liveurl\\liveurl.js"
+			],
+			[
+				"rssj.son",
+				"locales\\static\\rss.json"
+			],
+			[
+				"ngi18next",
+				"scripts\\vendor\\ng-i18next.js"
+			],
+			[
+				"rss.json",
+				"locales\\static\\rss.json"
+			],
+			[
+				"ngi18ne",
+				"scripts\\vendor\\ng-i18next.js"
+			],
+			[
+				"languageform",
+				"scripts\\directives\\settings\\languageForm\\languageForm.js"
+			],
+			[
+				"i18next",
+				"scripts\\vendor\\ng-i18next.js"
+			],
+			[
+				"usersettingsconfig",
+				"views\\partials\\user\\user.settings.configuration.html"
+			],
+			[
+				"usersetac",
+				"views\\partials\\user\\user.settings.account.html"
+			],
+			[
+				"postimage",
+				"scripts\\directives\\post\\postImage\\postImage.html"
+			],
+			[
+				"metapost",
+				"scripts\\directives\\metaPost.js"
+			],
+			[
+				"followedentities",
+				"scripts\\directives\\followedEntities\\followedEntities.html"
+			],
+			[
+				"varsscss",
+				"scss\\_vars.scss"
+			],
+			[
+				"searhitemscss",
+				"scss\\_search-item.scss"
+			],
+			[
+				"searchitemhtml",
+				"views\\includes\\searchItem.html"
+			],
+			[
+				"followedenti",
+				"scripts\\directives\\followedEntities\\_followedEntities.scss"
+			],
+			[
+				"rss.js",
+				"scripts\\services\\rss.js"
+			],
+			[
+				"followbtn",
+				"scripts\\directives\\followBtn\\followBtn.html"
+			],
+			[
+				"navbarlinks",
+				"scripts\\directives\\navBar\\navBarLinks.js"
+			],
+			[
+				"navbar",
+				"scripts\\directives\\navBar\\navBarLinks.html"
+			],
+			[
+				"rssjson",
+				"locales\\static\\rss.json"
+			],
+			[
+				"collectionpost",
+				"scripts\\directives\\collections\\posts\\posts.js"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				"rss",
+				"locales\\static\\rss.json"
+			],
+			[
+				"profilepub",
+				"views\\partials\\profiles\\publisher\\entity.publisher.feed.html"
+			],
+			[
+				"feedhtml",
+				"scripts\\directives\\feed\\feed.html"
+			],
+			[
+				"feedjs",
+				"scripts\\directives\\feed\\feed.js"
+			],
+			[
+				"userconfig",
+				"scripts\\services\\userConfig.js"
+			],
+			[
+				"createpostjs",
+				"scripts\\directives\\createPost\\createPost.js"
+			],
+			[
+				"lang",
+				"scripts\\services\\languages.js"
+			],
+			[
+				"bowerjson",
+				"bower.json"
+			],
+			[
+				"basescss",
+				"scss\\_base.scss"
+			],
+			[
+				"wallscss",
+				"scss\\views\\_wall.scss"
+			],
+			[
+				"appconfig",
+				"scripts\\app.config.js"
+			],
+			[
+				"helpers",
+				"scss\\_helpers.scss"
+			],
+			[
+				"layoutscss",
+				"scss\\_layout.scss"
+			],
+			[
+				"entitypopoverjs",
+				"scripts\\directives\\entityPopover\\entityPopover.js"
+			],
+			[
+				"header",
+				"scripts\\directives\\post\\headerPost\\headerPost.html"
+			],
+			[
+				"entitypopo",
+				"scripts\\directives\\entityPopover\\entityPopover.js"
+			],
+			[
+				"postscss",
+				"scripts\\directives\\post\\_post.scss"
+			],
+			[
+				"apiutils",
+				"scripts\\services\\api\\apiUtils.js"
+			],
+			[
+				"entitypopover",
+				"scripts\\directives\\entityPopover\\entityPopover.js"
+			],
+			[
+				"dmhfiltervscs",
+				"scripts\\directives\\dmhFilterVoteVideos\\_dmhFilterVoteVideos.scss"
+			],
+			[
+				"dmhfiltermo",
+				"scripts\\directives\\dmhFilterMotives\\_dmhFilterMotives.scss"
+			],
+			[
+				"dmhfiltermotives",
+				"scripts\\directives\\dmhFilterMotives\\dmhFilterMotives.html"
+			],
+			[
+				"friends.html",
+				"scripts\\directives\\collections\\friends\\friends.html"
+			],
+			[
+				"navpro",
+				"scripts\\directives\\navBar\\navBarProfile.html"
+			],
+			[
+				"reportpostscss",
+				"scripts\\directives\\reportPost\\_reportPost.scss"
+			],
+			[
+				"reportpost",
+				"scripts\\directives\\reportPost\\reportPost.html"
+			],
+			[
+				"uri.js",
+				"scripts\\bower_components\\uri.js\\src\\URI.js"
+			],
+			[
+				"angularmoment",
+				"scripts\\bower_components\\angular-moment\\angular-moment.js"
+			],
+			[
+				"helpersscss",
+				"scss\\_helpers.scss"
+			],
+			[
+				"ui-bootstrap-tpls.js",
+				"scripts\\bower_components\\angular-bootstrap\\ui-bootstrap-tpls.js"
+			],
+			[
+				"navbarprofile",
+				"scripts\\directives\\navBar\\navBarProfile.html"
+			],
+			[
+				"uirouter",
+				"scripts\\bower_components\\angular-ui-router\\release\\angular-ui-router.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"followbtnhtml",
+				"scripts\\directives\\followBtn\\followBtn.html"
+			],
+			[
+				"followbtnjs",
+				"scripts\\directives\\followBtn\\followBtn.js"
+			],
+			[
+				"truncatejs",
+				"scripts\\filters\\truncate.js"
+			],
+			[
+				"postnotifcommen",
+				"scripts\\directives\\postNotif\\postNotifMotiveComment\\_postNotifMotiveComment.scss"
+			],
+			[
+				"postjs",
+				"scripts\\controllers\\post.js"
+			],
+			[
+				"postheader",
+				"scripts\\directives\\post\\headerPost\\headerPost.html"
+			],
+			[
+				"notifmotivecom",
+				"scripts\\directives\\postNotif\\postNotifMotiveComment\\postNotifMotiveComment.html"
+			],
+			[
+				"modalreportcomment",
+				"scss\\modals\\_modalReportComment.scss"
+			],
+			[
+				"cheerbarscss",
+				"scripts\\directives\\cheerBar\\_cheerBar.scss"
+			],
+			[
+				"liveurljs",
+				"scripts\\directives\\liveurl\\liveurl.js"
+			],
+			[
+				"liveurlscss",
+				"scripts\\directives\\liveurl\\_liveurl.scss"
+			],
+			[
+				"createposthtml",
+				"scripts\\directives\\createPost\\createPost.html"
+			],
+			[
+				"feedscss",
+				"scripts\\directives\\feed\\_feed.scss"
+			],
+			[
+				"postnotifuservote",
+				"scripts\\directives\\postNotif\\postNotifUserVote\\_postNotifUserVote.scss"
+			],
+			[
+				"postmotivecomment",
+				"scripts\\directives\\post\\postMotiveComment\\postMotiveComment.html"
+			],
+			[
+				"postopni",
+				"scripts\\directives\\post\\postOpinion\\postOpinion.html"
+			],
+			[
+				"anoncard",
+				"scripts\\directives\\anonCard\\anonCard.html"
+			],
+			[
+				"centra",
+				"views\\partials\\home\\person\\central.html"
+			],
+			[
+				"messscss",
+				"scss\\_mess.scss"
+			],
+			[
+				"feed.html",
+				"scripts\\directives\\feed\\feed.html"
+			],
+			[
+				"mainleftsidebar",
+				"views\\partials\\common\\mainLeftSidebar.html"
+			],
+			[
+				"base.html",
+				"views\\layouts\\base.html"
+			],
+			[
+				"causehtml",
+				"views\\layouts\\cause.html"
+			],
+			[
+				"entityfavs",
+				"scripts\\directives\\entityFavs\\entityFavs.js"
+			],
+			[
+				"entityicon",
+				"scripts\\directives\\entityIcon\\entityIcon.js"
+			],
+			[
+				"entitypopoverhtml",
+				"scripts\\directives\\entityPopover\\entityPopover.html"
+			],
+			[
+				"entitypopoverscss",
+				"scripts\\directives\\entityPopover\\_entityPopover.scss"
+			],
+			[
+				"use.videos.listvotevideos.html",
+				"views\\partials\\cause\\entity.cause.videos.listVoteVideos.html"
+			],
+			[
+				"votevideocardscss",
+				"scripts\\directives\\voteVideoCard\\_voteVideoCard.scss"
+			],
+			[
+				"dmhfiltermoti",
+				"scripts\\directives\\dmhFilterMotives\\_dmhFilterMotives.scss"
+			],
+			[
+				"entitycausehom",
+				"views\\partials\\cause\\entity.cause.home.html"
+			],
+			[
+				"motivecard",
+				"scripts\\directives\\motiveCard\\_motiveCard.scss"
+			],
+			[
+				"extended",
+				"scss\\views\\_extended.scss"
+			],
+			[
+				"entitycausevideos",
+				"views\\partials\\cause\\entity.cause.videos.listVoteVideos.html"
+			],
+			[
+				"dmhhomes",
+				"scss\\views\\_dmhHome.scss"
+			],
+			[
+				"votevideocard",
+				"scripts\\directives\\voteVideoCard\\voteVideoCard.html"
+			],
+			[
+				"dmhfiltervotes",
+				"scripts\\directives\\dmhFilterMotives\\dmhFilterMotives.html"
+			],
+			[
+				"dmhfiltervotevide",
+				"scripts\\directives\\dmhFilterVoteVideos\\dmhFilterVoteVideos.html"
+			],
+			[
+				"causemotiveslistmo",
+				"views\\partials\\cause\\entity.cause.motives.listMotives.html"
+			],
+			[
+				"usermotiveshtml",
+				"views\\partials\\user\\user.motives.html"
+			],
+			[
+				"dmhscss",
+				"scss\\views\\_dmhHome.scss"
+			],
+			[
+				"dmhfil",
+				"scripts\\directives\\dmhFilterMotives\\_dmhFilterMotives.scss"
+			],
+			[
+				"relatedvotevideoscss",
+				"scripts\\directives\\relatedVoteVideos\\_relatedVoteVideos.scss"
+			],
+			[
+				"extendedscss",
+				"scss\\views\\_extended.scss"
+			],
+			[
+				"reportpos",
+				"scripts\\directives\\reportPost\\_reportPost.scss"
+			],
+			[
+				"dmhhome",
+				"scss\\views\\_dmhHome.scss"
+			],
+			[
+				"posthinch",
+				"scripts\\directives\\post\\postHinchas\\_postHinchas.scss"
+			],
+			[
+				"entitiesprofilelist",
+				"scripts\\directives\\entitiesProfileList\\_entitiesProfileList.scss"
+			],
+			[
+				"suggestedlist",
+				"scripts\\directives\\entitiesSuggestedList\\entitiesSuggestedList.html"
+			],
+			[
+				"liveur",
+				"scripts\\vendor\\jquery.liveurl_1.2.2.js"
+			],
+			[
+				"createpost",
+				"scripts\\directives\\createPost\\createPost.html"
+			],
+			[
+				"relatedvideos",
+				"scripts\\directives\\relatedVoteVideos\\relatedVoteVideos.html"
+			],
+			[
+				"postnotif",
+				"scripts\\directives\\postNotif\\_postNotif.scss"
+			],
+			[
+				"dmhvideo",
+				"scripts\\directives\\dmhBannerVoteVideos\\dmhBannerVoteVideos.html"
+			],
+			[
+				"dmhvotevidescss",
+				"scripts\\directives\\dmhBannerVoteVideos\\_dmhBannerVoteVideos.scss"
+			],
+			[
+				"dmhbannermotivevideo",
+				"scripts\\directives\\dmhBannerMotiveVideos\\dmhBannerMotiveVideos.html"
+			],
+			[
+				"dmhbannervotevi",
+				"scripts\\directives\\dmhBannerVoteVideos\\dmhBannerVoteVideos.html"
+			],
+			[
+				"helperscss",
+				"scss\\_helpers.scss"
+			],
+			[
+				"dmhhomeheadscss",
+				"scripts\\directives\\dmhHomeHeader\\_dmhHomeHeader.scss"
+			],
+			[
+				"dmhhomeheader",
+				"scripts\\directives\\dmhHomeHeader\\dmhHomeHeader.html"
+			],
+			[
+				"entitycausehome",
+				"views\\partials\\cause\\entity.cause.home.html"
+			],
+			[
+				"homeper",
+				"views\\partials\\home\\person\\central.html"
+			],
+			[
+				"suggestedfrien",
+				"scripts\\directives\\suggestedFriends\\_suggestedFriends.scss"
+			],
+			[
+				"entitymobile",
+				"scripts\\directives\\entity\\entity-mobile.html"
+			],
+			[
+				"suggestedf",
+				"scripts\\directives\\suggestedFriends\\suggestedFriends.js"
+			],
+			[
+				"suggestedfriendswall",
+				"scripts\\directives\\suggestedFriends\\suggestedFriends-wall.html"
+			],
+			[
+				"suggestedfeiends",
+				"scripts\\directives\\suggestedFriends\\suggestedFriends.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\www\\client\\Hinchas.sublime-project"
+			],
+			[
+				"hinch",
+				"D:\\www\\client\\Hinchas.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
